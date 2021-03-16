@@ -13,7 +13,7 @@ const kLabelTextStyle = TextStyle(
 const kUnitTextStyle = TextStyle(
   fontSize: 22.0,
   color: Color(0xFF8D8E98),
-);a
+);
 
 const kNumberTextStyle = TextStyle(
   fontSize: 50.0,
